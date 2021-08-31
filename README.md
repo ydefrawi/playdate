@@ -25,4 +25,4 @@
   Jenna Garrison - https://github.com/jenna4285/ <br>
   Tyler Rutherford - https://github.com/rutherford87/ <br>
   ## Questions:
-  Contact the repo owner with questions at jenna4285@yahoo.com  
+  Contact the repo owner with questions at ydefrawi@gmail.com  
