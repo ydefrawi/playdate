@@ -1,4 +1,7 @@
 # PlayDate
+
+![Screenshot](README-screenshot.PNG)
+
   ## Description:
   Going to the playground is one of the highlights of childhood. The only thing better than being at the playground is being there when other kids are there to play with!
   
